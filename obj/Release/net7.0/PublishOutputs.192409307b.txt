@@ -1,0 +1,12 @@
+D:\PemrogramanLanjut\BookDB\obj\Release\net7.0\PubTmp\Out\BookDB.exe
+D:\PemrogramanLanjut\BookDB\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\PemrogramanLanjut\BookDB\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\PemrogramanLanjut\BookDB\obj\Release\net7.0\PubTmp\Out\BookDB.dll
+D:\PemrogramanLanjut\BookDB\obj\Release\net7.0\PubTmp\Out\BookDB.deps.json
+D:\PemrogramanLanjut\BookDB\obj\Release\net7.0\PubTmp\Out\BookDB.runtimeconfig.json
+D:\PemrogramanLanjut\BookDB\obj\Release\net7.0\PubTmp\Out\BookDB.pdb
+D:\PemrogramanLanjut\BookDB\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\PemrogramanLanjut\BookDB\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\PemrogramanLanjut\BookDB\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\PemrogramanLanjut\BookDB\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PemrogramanLanjut\BookDB\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
